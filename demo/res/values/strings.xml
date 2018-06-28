@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">ZplayOfflineSDK华为</string>
+    <string name="main_tips">Log in</string>
+    <string name="online_game">Online game</string>
+    <string name="console_game">Pay</string>
+    <string name="login_auth">"Auth login"</string>
+    <string name="add_rank">Submit ranking</string>
+    <string name="rank_list">Ranking list</string>
+    <string name="player_rank">Player info</string>
+    <string name="title_activity_game">Online game</string>
+    <string name="title_activity_console">Single player</string>
+    <string name="buy_prop">In-game purchases</string>
+    <string name="check_account">Real name check</string>
+    <string name="prop_tip">Purchase info</string>
+    <string name="rank_tip">Rank info</string>
+    <string name="prop_name">Name:</string>
+    <string name="price">Price:</string>
+    <string name="prop_desc">Description:</string>
+    <string name="begin_pay">Pay</string>
+    <string name="request_id">Request ID:</string>
+    <string name="item_tips">Note: \n1. Purchase name and description cannot contain the following characters: #$^&amp;*)=|",/&lt;&gt;\\?: \n2. Prices are accurate to two decimal places and are shown in ¥.</string>
+    <string name="rank_id">ID:</string>
+    <string name="rank_name">Name:</string>
+    <string name="rank_minNum">Min:</string>
+    <string name="rank_maxNum">Max:</string>
+    <string name="rank_value">Score:</string>
+    <string name="rank_desc">Description:</string>
+    <string name="rank_order_type">Ordering (0 for descending or 1 for ascending):</string>
+    <string name="add_rank_btn">Submit</string>
+    <string name="rank_req_page_num">Requested pages:</string>
+    <string name="rank_max_num">Maximum number per page:</string>
+    <string name="rank_rule">Ranking rules (0: Day ranking 1: Week ranking 2: Total ranking)</string>
+    <string name="rank_list_btn">Get ranking data</string>
+    <string name="rank_player_btn">Get player info</string>
+    <string name="check_account_18_toast">Players are not over 18 years old, please do not have to play the game to prevent addiction treatment!</string>
+    <string name="prop_test_param">Test parameters:</string>
+    <string name="pay_result_failed">Payment failed.</string>
+    <string name="pay_result_success">Payment successful.</string>
+    <string name="pay_result_check_sign_failed">Payment successful, but signature verification failed.</string>
+    <string name="pay_result_timeout">Payment has timed out.</string>
+    <string name="pay_result_need_to_login">Please log in again.</string>
+    <string name="msg_user_info_null">User info is empty.</string>
+    <string name="msg_login_success">Successfully logged in.</string>
+    <string name="msg_auth_login_success">Successfully auth logged in.</string>
+    <string name="msg_check_accesstoken_failed">Access token is invalid.</string>
+    <string name="msg_price_invalid">Price (accurate to two decimal places) is required.</string>
+    <string name="msg_product_name_null">The product name is required.</string>
+    <string name="msg_product_name_invalid">Product name cannot contain the following characters: #$^&amp;*)=|\".</string>
+    <string name="msg_product_description_null">Product description cannot be empty.</string>
+    <string name="msg_product_description_invalid">Product description cannot contain the following characters: #$^&amp;*)=|\".</string>
+    <string name="msg_params_null">Parameters cannot be empty.</string>
+
+</resources>
